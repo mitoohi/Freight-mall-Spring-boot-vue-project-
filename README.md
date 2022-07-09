@@ -1,4 +1,5 @@
-# Freight-mall
-> this project is for practice and reviewing SpringBoot and vue.js. The source course link is [bilibili: 货运系统项目]([【货运系统项目】带你从0搭建一个springboot+vue实战项目！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qY411F76k?p=1&vd_source=03f80efad638d4de11b935a85e545fd8))
+# Medical appointment system
 
-> 这是一个SpringBoot+vue技术栈的前后端分离项目，课程来自于哔哩哔哩。
+> 网上预约挂号就医系统，微服务架构的全栈Java练手项目，课程来自于尚硅谷：[尚硅谷Java微服务+分布式+全栈项目【尚医通】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1V5411K7rT?p=1)
+
+## 前言
